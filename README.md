@@ -9,6 +9,5 @@ Enjoy using Flash News
 ![Screenshot 2023-06-24 223550](https://github.com/nishant-redkar/Flash-News/assets/136965301/c91248ea-bcd8-494d-a7f8-ea8b175bfdf2)
 ![Screenshot 2023-06-24 223701](https://github.com/nishant-redkar/Flash-News/assets/136965301/69ae0a9e-0595-4173-82df-c1c225f99014)
 ![Screenshot 2023-06-24 223731](https://github.com/nishant-redkar/Flash-News/assets/136965301/dcc6174a-911e-401e-9ecf-0cb2b5f55dd8)
-![Screenshot 2023-06-24 223840](https://github.com/nishant-redkar/Flash-News/assets/136965301/29f05259-8599-44fd-9359-290f835a3942)
 ![Screenshot 2023-06-24 223924](https://github.com/nishant-redkar/Flash-News/assets/136965301/d1c47ba1-87b7-4a87-9d7d-1a5c11b065f5)
 
